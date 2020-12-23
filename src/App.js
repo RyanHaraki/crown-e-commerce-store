@@ -38,7 +38,6 @@ class App extends React.Component {
           currentUser: userAuth, //userAuth is null anywyays
         });
 
-        console.log(this.state)
       }
     });
   }
